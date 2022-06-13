@@ -1,0 +1,19 @@
+#marco{
+    width: 250px;
+    border-width: 10px;
+    border-color: chocolate ;
+    border-style: groove;
+}
+body{
+background-color:#40ff4e;
+}
+#ewe{
+    width: 180px;
+}
+#ew{
+    width:250px;
+}
+#fin{
+    width: 350px;
+}
+
